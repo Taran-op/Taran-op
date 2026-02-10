@@ -7,6 +7,7 @@
 ---
 
 ## 🧠 About Me
+- Taranjeet Singh
 - 18 years old  
 - Passionate about building things from scratch  
 - Strong interest in full-stack development & systems  
