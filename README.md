@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Taranjeet Singh
 
-<!--
-**Taran-op/Taran-op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Computer Science & Engineering**  
+🧑‍💻 Aspiring **Full-Stack Developer**  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 18 years old  
+- Passionate about building things from scratch  
+- Strong interest in full-stack development & systems  
+- All projects are **solo-built**
+
+---
+
+## 💻 Tech Stack
+- **Languages:** HTML, CSS, Java, C, Shell, Python  
+- **Interests:** Web Development, Linux, System Customization  
+
+---
+
+## 🐧 Projects
+- **Ghosty Linux** — Custom Linux distribution (personal project)  
+- Built multiple **websites**  
+- Built an **app** (project paused due to constraints)
+
+---
+
+## 🎨 Creative Skills
+- Photo Editing  
+- Video Editing  
+
+---
+
+## 🌐 Languages
+- English  
+- Hindi  
+- Punjabi  
+- Japanese (JLPT N4)
+
+---
+
+## 🎯 Goals
+- Become a **Full-Stack Developer**  
+- Build scalable, clean, and efficient software  
+- Contribute to open-source projects
+
+---
+
+## 📫 Connect
+- GitHub: [https://github.com/your-username](https://github.com/your-username)
