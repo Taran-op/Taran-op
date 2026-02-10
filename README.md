@@ -1,4 +1,4 @@
-# 👋 Taranjeet Singh
+# 👋 GREETINGS!!
 
 🎓 **B.Tech in Computer Science & Engineering**  
 🧑‍💻 Aspiring **Full-Stack Developer**  
