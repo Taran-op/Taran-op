@@ -50,3 +50,4 @@
 
 ## 📫 Connect
 - GitHub: [https://github.com/Taran-op](https://github.com/Taran-op)
+- LinkedIn: [https://www.linkedin.com/in/Taran/](https://www.linkedin.com/in/taran-s-85750a237/)
