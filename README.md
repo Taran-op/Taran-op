@@ -25,7 +25,7 @@
 - **Ghosty Linux** — Custom Linux distribution (personal project)  
 - Built multiple **websites**  
 - Built an **app** (project paused due to constraints)
-
+- Building Remote Control Centre for Ghosty (Arch Linux Distribution)
 ---
 
 ## 🎨 Creative Skills
