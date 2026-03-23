@@ -1,7 +1,7 @@
 # 👋 GREETINGS!!
 
 🎓 **B.Tech in Computer Science & Engineering**  
-🧑‍💻 Aspiring **Full-Stack Developer**  
+🧑‍💻 **Full-Stack ** & **Creative Developer **
 📍 India
 
 ---
