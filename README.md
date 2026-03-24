@@ -48,7 +48,7 @@
 - Contribute to open-source projects
 
 ---
-**Portfolio:-** [https://taran-portfolio-seven-24.vercel.app/](https://taran-portfolio)
+**Portfolio:-** [https://taran-portfolio](https://taran-portfolio-seven-24.vercel.app/)
 
 ---
 
