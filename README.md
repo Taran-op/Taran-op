@@ -15,9 +15,27 @@
 
 ---
 
-## 💻 Tech Stack
-- **Languages:** HTML, CSS, Java, C, Shell, Python  
-- **Interests:** Web Development, Linux, System Customization  
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
+
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=three.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+![WebGL](https://img.shields.io/badge/-WebGL-000)
+![GLSL](https://img.shields.io/badge/-GLSL-000)
+![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
+
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-000?&logo=arch-linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
 ---
 
