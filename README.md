@@ -41,9 +41,9 @@
 
 ## 🐧 Projects
 - **Ghosty Linux** — Custom Linux distribution (personal project)  
-- Built multiple **websites**  
-- Built an **app** (project paused due to constraints)
-- Building Remote Control Centre for Ghosty (Arch Linux Distribution)
+- Built **3D portfolio website**  
+- Building an **app** for the distro I made
+- Built web based Remote Control Centre for my distro named Ghosty (Arch Linux Distribution)
 ---
 
 ## 🎨 Creative Skills
