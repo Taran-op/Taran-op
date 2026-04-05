@@ -48,8 +48,8 @@
 
 ## 🎨 Creative Skills
 - Photo Editing  
-- Video Editing  
-
+- Video Editing
+- 
 ---
 
 ## 🌐 Languages
