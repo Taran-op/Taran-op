@@ -1,4 +1,4 @@
-# 👋 GREETINGS!!
+# 👋 GREETINGS!!!
 
 🎓 **B.Tech in Computer Science & Engineering**  
 🧑‍💻 **Full-Stack** & **Creative Developer**
